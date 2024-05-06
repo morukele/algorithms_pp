@@ -34,3 +34,7 @@
 
 # Cmake debug folder
 /cmake-build-debug
+/build
+
+# VSCode
+/.vscode
