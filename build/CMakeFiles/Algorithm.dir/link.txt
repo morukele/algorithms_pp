@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Algorithm.dir/main.cpp.o CMakeFiles/Algorithm.dir/algo/closest_number_to_zero.cpp.o CMakeFiles/Algorithm.dir/algo/change.cpp.o -o Algorithm

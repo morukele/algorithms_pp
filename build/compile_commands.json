@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/oghenemarho/Developer/tutorials/Algorithm/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/Algorithm.dir/main.cpp.o -c /Users/oghenemarho/Developer/tutorials/Algorithm/main.cpp",
+  "file": "/Users/oghenemarho/Developer/tutorials/Algorithm/main.cpp",
+  "output": "CMakeFiles/Algorithm.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/oghenemarho/Developer/tutorials/Algorithm/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/Algorithm.dir/algo/closest_number_to_zero.cpp.o -c /Users/oghenemarho/Developer/tutorials/Algorithm/algo/closest_number_to_zero.cpp",
+  "file": "/Users/oghenemarho/Developer/tutorials/Algorithm/algo/closest_number_to_zero.cpp",
+  "output": "CMakeFiles/Algorithm.dir/algo/closest_number_to_zero.cpp.o"
+},
+{
+  "directory": "/Users/oghenemarho/Developer/tutorials/Algorithm/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/Algorithm.dir/algo/change.cpp.o -c /Users/oghenemarho/Developer/tutorials/Algorithm/algo/change.cpp",
+  "file": "/Users/oghenemarho/Developer/tutorials/Algorithm/algo/change.cpp",
+  "output": "CMakeFiles/Algorithm.dir/algo/change.cpp.o"
+}
+]
